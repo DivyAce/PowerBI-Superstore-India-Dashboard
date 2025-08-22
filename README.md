@@ -54,6 +54,8 @@ Average Profit
 🔹 Dashboard Preview
 
 Here’s a snapshot of the Power BI dashboard:
+<img width="1415" height="742" alt="Dashboard" src="https://github.com/user-attachments/assets/5c4b6e88-5ebd-439c-8f80-e87a02e579c2" />
+
 
 🔹 Deliverables
 
