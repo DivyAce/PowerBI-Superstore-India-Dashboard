@@ -2,26 +2,78 @@
 
 ## 🔹 Project Overview
 This project is an **interactive Power BI dashboard** built using the Global Superstore dataset (India-focused).  
-It helps management analyze **sales, profit, and customer trends** to make smarter, data-driven business decisions.  
-
-## 🔹 Features
-- Cleaned & modeled dataset into Fact (Sales) and Dimension (Products, Customers) tables  
-- Multiple visualizations: bar charts, line charts, donut charts, cards, tables  
-- Slicers for interactivity (State, Category, Segment)  
-- Drill-down enabled for deeper analysis  
-- KPIs created using DAX (Total Sales, Profit Margin, Avg Profit, etc.)  
-
-## 🔹 Deliverables
-- `Superstore_Dashboard.pbix` → Power BI dashboard file  
-- `Project_Report.pdf` → 1-page summary with dataset info, business problem, and key insights  
-
-## 🔹 Key Insights
-- Maharashtra, Karnataka, and Delhi are top sales contributors  
-- Technology drives the highest revenue  
-- Some states show strong sales but weak profitability  
-- Clear seasonality in monthly sales patterns  
+It provides actionable insights into **sales, profit, customers, and product trends**, helping managers make smarter data-driven decisions.
 
 ---
 
-👤 **Author:** Divyanshu Singh  
-📅 **Duration:** 2-day Power BI Internship Project  
+## 🔹 Repository Structure
+PowerBI-Superstore-India-Dashboard/
+│── dataset/ # Raw dataset (CSV/Excel)
+│── report/ # Power BI file (.pbix)
+│── docs/ # Short project report (PDF/Word)
+│── screenshots/ # Dashboard preview image
+│── README.md # Project description & setup
+
+---
+
+## 🔹 Requirements
+- **Power BI Desktop** (download: https://powerbi.microsoft.com/desktop/)
+- Dataset: Kaggle Global Superstore dataset (India filtered)
+
+---
+
+## 🔹 Setup Instructions
+1. Clone/download this repository:
+   ```bash
+   git clone https://github.com/<your-username>/PowerBI-Superstore-India-Dashboard.git
+Open the .pbix file in Power BI Desktop (found in /report/).
+
+Explore the dashboard using slicers and drill-down features.
+
+For dataset details, check /dataset/.
+🔹 Features
+
+Cleaned and modeled dataset into Fact (Sales) and Dimension (Products, Customers) tables.
+
+Visualizations:
+
+Bar/Column chart (sales comparison)
+
+Donut chart (category distribution)
+
+Line chart (trend analysis)
+
+KPI Cards (total sales, profit, avg profit, etc.)
+
+Table view (detailed data)
+
+Interactivity:
+
+Slicers by State, Segment, and Category
+
+Drill-down on charts
+
+Cross-filtering enabled
+
+DAX Measures:
+
+Total Sales
+
+Average Profit
+
+🔹 Dashboard Preview
+
+Here’s a snapshot of the Power BI dashboard:
+
+🔹 Deliverables
+
+/report/Superstore_Dashboard.pbix → Final Power BI file
+
+/docs/Project_Report.pdf → 1–2 page project report
+
+/dataset/superstore_india.csv → Raw dataset
+
+👤 Author
+
+Divyanshu Singh
+📅 Power BI Internship Project (2-Day Webinar)
