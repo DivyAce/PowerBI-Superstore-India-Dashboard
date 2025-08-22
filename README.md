@@ -14,6 +14,10 @@ PowerBI-Superstore-India-Dashboard/
 │── screenshots/ # Dashboard preview image
 │── README.md # Project description & setup
 
+yaml
+Copy
+Edit
+
 ---
 
 ## 🔹 Requirements
@@ -31,8 +35,8 @@ Open the .pbix file in Power BI Desktop (found in /report/).
 Explore the dashboard using slicers and drill-down features.
 
 For dataset details, check /dataset/.
-🔹 Features
 
+🔹 Features
 Cleaned and modeled dataset into Fact (Sales) and Dimension (Products, Customers) tables.
 
 Visualizations:
@@ -62,11 +66,10 @@ Total Sales
 Average Profit
 
 🔹 Dashboard Preview
-
 Here’s a snapshot of the Power BI dashboard:
 
-🔹 Deliverables
 
+🔹 Deliverables
 /report/Superstore_Dashboard.pbix → Final Power BI file
 
 /docs/Project_Report.pdf → 1–2 page project report
@@ -74,6 +77,5 @@ Here’s a snapshot of the Power BI dashboard:
 /dataset/superstore_india.csv → Raw dataset
 
 👤 Author
-
 Divyanshu Singh
 📅 Power BI Internship Project (2-Day Webinar)
