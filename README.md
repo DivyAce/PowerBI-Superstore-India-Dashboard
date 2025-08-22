@@ -6,13 +6,6 @@ It provides actionable insights into **sales, profit, customers, and product tre
 
 ---
 
-## 🔹 Repository Structure
-PowerBI-Superstore-India-Dashboard/
-│── dataset/ # Raw dataset (CSV/Excel)
-│── report/ # Power BI file (.pbix)
-│── docs/ # Short project report (PDF/Word)
-│── screenshots/ # Dashboard preview image
-│── README.md # Project description & setup
 ---
 
 ## 🔹 Requirements
