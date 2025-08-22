@@ -6,8 +6,6 @@ It provides actionable insights into **sales, profit, customers, and product tre
 
 ---
 
----
-
 ## 🔹 Requirements
 - **Power BI Desktop** → [Download here](https://powerbi.microsoft.com/desktop/)  
 - Dataset: Kaggle Global Superstore dataset (India filtered)
