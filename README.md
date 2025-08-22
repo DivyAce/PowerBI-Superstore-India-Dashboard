@@ -21,6 +21,7 @@ Open the .pbix file in Power BI Desktop (found in /report/).
 Explore the dashboard using slicers and drill-down features.
 
 For dataset details, check /dataset/.
+
 🔹 Features
 
 Data Modeling → Split into Fact (Sales) and Dimension (Products, Customers) tables
