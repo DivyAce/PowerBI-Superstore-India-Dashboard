@@ -13,21 +13,16 @@ PowerBI-Superstore-India-Dashboard/
 │── docs/ # Short project report (PDF/Word)
 │── screenshots/ # Dashboard preview image
 │── README.md # Project description & setup
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔹 Requirements
-- **Power BI Desktop** (download: https://powerbi.microsoft.com/desktop/)
+- **Power BI Desktop** → [Download here](https://powerbi.microsoft.com/desktop/)  
 - Dataset: Kaggle Global Superstore dataset (India filtered)
 
 ---
 
 ## 🔹 Setup Instructions
-1. Clone/download this repository:
+1. Clone or download this repository:
    ```bash
    git clone https://github.com/<your-username>/PowerBI-Superstore-India-Dashboard.git
 Open the .pbix file in Power BI Desktop (found in /report/).
@@ -35,11 +30,11 @@ Open the .pbix file in Power BI Desktop (found in /report/).
 Explore the dashboard using slicers and drill-down features.
 
 For dataset details, check /dataset/.
-
 🔹 Features
-Cleaned and modeled dataset into Fact (Sales) and Dimension (Products, Customers) tables.
 
-Visualizations:
+Data Modeling → Split into Fact (Sales) and Dimension (Products, Customers) tables
+
+Visualizations →
 
 Bar/Column chart (sales comparison)
 
@@ -51,7 +46,7 @@ KPI Cards (total sales, profit, avg profit, etc.)
 
 Table view (detailed data)
 
-Interactivity:
+Interactivity →
 
 Slicers by State, Segment, and Category
 
@@ -59,17 +54,18 @@ Drill-down on charts
 
 Cross-filtering enabled
 
-DAX Measures:
+DAX Measures →
 
 Total Sales
 
 Average Profit
 
 🔹 Dashboard Preview
+
 Here’s a snapshot of the Power BI dashboard:
 
-
 🔹 Deliverables
+
 /report/Superstore_Dashboard.pbix → Final Power BI file
 
 /docs/Project_Report.pdf → 1–2 page project report
@@ -77,5 +73,6 @@ Here’s a snapshot of the Power BI dashboard:
 /dataset/superstore_india.csv → Raw dataset
 
 👤 Author
+
 Divyanshu Singh
 📅 Power BI Internship Project (2-Day Webinar)
