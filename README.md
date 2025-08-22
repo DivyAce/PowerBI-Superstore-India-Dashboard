@@ -26,31 +26,39 @@ For dataset details, check /dataset/.
 
 Data Modeling → Split into Fact (Sales) and Dimension (Products, Customers) tables
 
+
 Visualizations →
 
-Bar/Column chart (sales comparison)
+-Bar/Column chart (sales comparison)
 
-Donut chart (category distribution)
 
-Line chart (trend analysis)
+-Donut chart (category distribution)
 
-KPI Cards (total sales, profit, avg profit, etc.)
 
-Table view (detailed data)
+-Line chart (trend analysis)
+
+
+-KPI Cards (total sales, profit, avg profit, etc.)
+
+
+-Table view (detailed data)
+
 
 Interactivity →
 
-Slicers by State, Segment, and Category
+-Slicers by State, Segment, and Category
 
-Drill-down on charts
+-Drill-down on charts
 
-Cross-filtering enabled
+-Cross-filtering enabled
+
 
 DAX Measures →
 
-Total Sales
+-Total Sales
 
-Average Profit
+-Average Profit
+
 
 🔹 Dashboard Preview
 
